@@ -1,1 +1,4 @@
-
+#이클립스 자바 디렉토리 생성
+1. File- New- java project
+2. project name-Create separate folders for sources and class files-Next
+3. create module-info.java file 선택 취소!!!-finish
