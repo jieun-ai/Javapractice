@@ -20,3 +20,12 @@ public class Datatype  {
 		System.out.println(1111);
 	}
 }
+
+출력:
+6
+six
+6
+12
+66
+4
+1111
