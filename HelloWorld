@@ -6,7 +6,7 @@ public class HelloWorldApp  {
 
 출력: Hello World!!
 
-(HelloWorldApp 부분은 파일이름으로 설정해야함)
+(HelloWorldApp 부분은 파일과 동일한 이름으로 설정해야함)
 
 
 public class Datatype  {
